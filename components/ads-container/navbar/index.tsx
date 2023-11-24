@@ -47,7 +47,7 @@ export default function CoNavbar() {
                             display:grid;
                             position: relative;
                             top: -12px;
-                        `} src="/assets/images/vercel.svg" width={185} height={70} imgWidth={50} imgHeight={50} />
+                        `} src="/assets/images/vercyel.svg" width={185} height={70} imgWidth={50} imgHeight={50} />
                     </div>
                 </FlexDiv>
             </Container>
